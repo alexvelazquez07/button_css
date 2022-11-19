@@ -1,0 +1,34 @@
+.search {
+    background-color: rgb(228, 224, 224);
+    color: #0ccccc; 
+    border: 2px solid #0ccccc; 
+    border-radius: 20px; /*El borde de forma circular*/
+    width: 10%;
+    height: 40px;
+    cursor: pointer; /* Habilitar el cursor*/
+    font-weight: bold;
+  }
+
+  .redondo{
+    background-color: rgb(228, 224, 224);
+    color: #0ccccc; 
+    border: 2px solid #0ccccc; 
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  .create-account{
+    display: inline-block;
+    padding: 15px 25px; /*Tamaño del circulo*/
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: white;
+    background-color:blue;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999; /*Efecto de sombra*/
+  }
